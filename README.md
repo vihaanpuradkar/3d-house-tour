@@ -48,10 +48,10 @@ Just copy the code from main 'final.py' file or fork our repository and run the 
 Designing the house using proper co-ordinates,
 Interior Architecture, Setting Appropriate dimensions for all components, implementation of static components
 
-    - Aishwarya :Implementation of translation, rotation, key processing and mouse movement detection
+    - Aishwarya :Implementation of translation, rotation, key processing and mouse movement detection, implementation of scenes to be rendered
 
     - Navkar :
-Implementation of scenes to be rendered, initialaztion of various global matrices and variables
+ Initialization and maintaining various global matrices and variables
 
  
 
